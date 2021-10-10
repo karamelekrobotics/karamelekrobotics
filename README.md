@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: berkanonderkaramelek@gmail.com
 - 😄 Pronouns: karamelek
 - ⚡ Fun fact: Your worst code is the best code of others.
+
+Digitalocean'dan banlanan, Stackoverflow'da linç yiyen adam.
