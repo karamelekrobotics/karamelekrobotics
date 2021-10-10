@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started from Mordor:
+This is Berkan Önder, I am from Angmar!
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Embedded Systems
 - 💬 Ask me about karamelek.tech
