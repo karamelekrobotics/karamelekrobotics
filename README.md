@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**karamelekrobotics/karamelekrobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get you started from Mordor:
 
 - 🔭 I’m currently working on Embedded Systems
 - 💬 Ask me about karamelek.tech
